@@ -1,0 +1,18 @@
+{
+  "name": "fm-plugin-touchspin",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "main": "js/touchspin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-plugin-touchspin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-plugin-touchspin/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-touchspin#readme",
+  "dependencies": {
+    "bootstrap-touchspin": "^4.2.5"
+  }
+}
